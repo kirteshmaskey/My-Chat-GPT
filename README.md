@@ -7,10 +7,10 @@ Add your question in input field and press submit and you are done, just wait fo
 
 ## Image gallery
 - UI
-![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/c348ae16-9446-4494-a18e-144905f1341a)
+![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/44f9573b-8e0c-4cda-b0f9-111ffeafe085)
 
 - User input
-![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/6d50b53a-6a99-4e0d-ad54-311e4bc4b5a1)
+![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/88d85ba5-5df8-4c07-89db-4ac2ff163fd6)
 
 - Chat GPT response
-![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/a20a5af7-7d80-4a69-a330-c5f8fe24d2f3)
+![image](https://github.com/kirteshmaskey/My-Chat-GPT/assets/84732597/5ef2d3da-239b-4346-8108-eeece5c5fd7a)
